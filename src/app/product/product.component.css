@@ -1,0 +1,32 @@
+h2{
+  text-align: center;
+  color:#1AC9FD;
+  font-family:fantacy;
+  margin-top: 50PX;
+}
+h2:hover{
+  -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5);
+}
+i{
+font-size: 50px;
+text-align: center;
+margin-left: 110px;
+}
+h6,p{
+  text-align: center;
+  margin-top: 20px;
+}
+#para{
+  text-align: justify;
+}
+.above .fa:hover{
+margin-top: -20px;
+color: #EE3B24!important;
+cursor: pointer;
+}
+.above h6:hover{
+  cursor: pointer;
+  color: #EE3B24!important;
+}
